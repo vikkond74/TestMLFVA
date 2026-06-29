@@ -21,7 +21,7 @@ Long-format CSV or Excel — one row per item per month — at **any level**
 
 Columns are auto-detected by name and re-mappable in the sidebar. Only
 **completed months** are scored (the current and future months are dropped),
-and analysis is capped at the most recent 12 completed months.
+and analysis is capped at the most recent 12 completed months. On load, **FCA defaults to the first dimension column (e.g. SapCode) level**; change it in the sidebar. A **Load sample data** button lets new users explore immediately with synthetic data.
 
 ## Methodology
 
